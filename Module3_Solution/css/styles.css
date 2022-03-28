@@ -49,6 +49,9 @@ margin: 15px;
 
   margin-bottom: 55px;
 }
+.container{
+  margin-left: 0;
+}
 
 .container-fluid{
 background-color: darkgrey;
